@@ -6,6 +6,6 @@ install package by using pip
 pip install matplotlib
 pip install numpy
 
-open file detection.ipynb via jupyter notebook or visual studio code
+open file object.ipynb via jupyter notebook or visual studio code
 
 enjoy!!!!!!!!!!!!
